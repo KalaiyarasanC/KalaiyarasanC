@@ -1,6 +1,6 @@
 // let my=prompt("Enter your name");
 // console.log(my??"you didn't");
-//<script src="https://gist.github.com/gitdagray/38322a7141f4236e050086e7053febb7.js"></script>
+//kalai
 let playGame = confirm("Shall we play rock, paper, or scissors?");
 if (playGame) {
   //play
